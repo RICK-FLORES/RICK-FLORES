@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Welcome! My name is Rick and I am a Web Developer based out of Northern California.
 <!--
 **RICK-FLORES/RICK-FLORES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
