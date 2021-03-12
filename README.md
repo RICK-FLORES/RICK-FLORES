@@ -1,4 +1,3 @@
-![](/images/RickFlores_Neon_3.png)
 <p align=center>Welcome! My name is Rick and I am a Web Developer based out of Northern California.</p>
 <hr>
 <p>🔭 I’m currently working on devloping my skills to obtain a fulltime position at my dream job.</p>
