@@ -9,7 +9,9 @@
 - Eager to provide value to projects.
 - Looking forward to collaborating and networking with my peers.
 
+## 💻 **My Tech Stack**
 
+## 🤝 **Connect With Me**
 
 ## 📈 **Github Stats**
 
@@ -17,5 +19,6 @@
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=RICK-FLORES&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
-## 🤝 **Connect With Me**
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/RICK-FLORES?style=social" />
+</p>
