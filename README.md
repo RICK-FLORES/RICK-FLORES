@@ -32,6 +32,8 @@
 
 ## 🤝 **Lets Connect**
 
+![Twitter](https://img.shields.io/twitter/follow/RICK__FLORES?logo=Twitter&style=for-the-badge)
+
 ## 📈 **Github Stats**
 
 <p align="center">
