@@ -32,14 +32,15 @@
 
 ## 🤝 **Lets Connect**
 
-![Twitter](https://img.shields.io/twitter/follow/RICK__FLORES?logo=Twitter&style=for-the-badge)
+| <a href="https://www.linkedin.com/in/rick-flores-dev/"><img src="./images/linkedin-logo.svg" width=40px height=40px></a> | <a href="https://twitter.com/RICK__FLORES"><img src="./images/twitter-logo.svg" width=40px height=40px></a> |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------|
+<a href="https://twitter.com/RICK__FLORES">@rick-flores-dev</a> | <a href="https://twitter.com/RICK__FLORES">@RICK__FLORES</a> |
+
+
+
 
 ## 📈 **Github Stats**
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=RICK-FLORES&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/rick-flores?logo=github&style=for-the-badge)
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/RICK-FLORES?style=social" />
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RICK-FLORES&theme=gotham)](https://git.io/streak-stats)
