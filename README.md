@@ -32,9 +32,9 @@
 
 ## 🤝 **Lets Connect**
 
-| <a href="https://www.linkedin.com/in/rick-flores-dev/"><img src="./images/linkedin-logo.svg" width=40px height=40px></a> | <a href="https://twitter.com/RICK__FLORES"><img src="./images/twitter-logo.svg" width=40px height=40px></a> |
+| <a href="https://www.linkedin.com/in/rick-flores-dev/"><img src="./images/linkedin-logo.svg" width=40px height=40px></a> | <a href="https://twitter.com/RICK_FLORES_DEV"><img src="./images/twitter-logo.svg" width=40px height=40px></a> |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------|
-<a href="https://twitter.com/RICK__FLORES">@rick-flores-dev</a> | <a href="https://twitter.com/RICK__FLORES">@RICK__FLORES</a> |
+<a href="https://www.linkedin.com/in/rick-flores-dev/">@rick-flores-dev</a> | <a href="https://twitter.com/RICK_FLORES_DEV">@RICK_FLORES_DEV</a> |
 
 
 
