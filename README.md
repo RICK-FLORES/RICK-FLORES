@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&logo=Tailwind-CSS&logoColor=38B2AC)
+![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=for-the-badge&logo=Gatsby&logoColor=purple)
 
 #### **Tools**
 
